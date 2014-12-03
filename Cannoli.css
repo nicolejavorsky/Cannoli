@@ -6,20 +6,20 @@ body {
 }
 
 a:link {
-    color: maroon;
+    color: black;
     text-decoration: none;
 }
 
 a:visited {
-	color: maroon;
+	color: black;
 }
 
 a:hover {
-	color: black;
+	color: maroon;
 }
 
 a:active {
-	color: black;
+	color: maroon;
 }
 
 #Menu li {
