@@ -51,3 +51,8 @@ a:active {
 	height: 1600px;
 	z-index: 20;
 }
+
+.Logo img {
+	width: 350px;
+	height: auto;
+}
