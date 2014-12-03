@@ -1,0 +1,53 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-image: url('cannolipic.jpg');
+	background-repeat: repeat;
+	text-align: left;
+}
+
+a:link {
+    color: maroon;
+    text-decoration: none;
+}
+
+a:visited {
+	color: maroon;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: black;
+}
+
+#Menu li {
+	opacity: 0.8;
+	margin: 2px;
+	font-size: 20px;
+	display: inline;
+	padding: 20px;
+	letter-spacing: 5px;
+	word-spacing: 15px;
+}
+
+#Menu ul {
+	float: center;
+	width: 100%;
+	height: auto;
+	padding: 30px;
+}
+
+#Menu {
+	margin: 0;
+}
+
+#pagewrap {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: peachpuff;
+	height: 1600px;
+	z-index: 20;
+}
